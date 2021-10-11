@@ -1,0 +1,4 @@
+impacket==0.9.23
+pycryptodome==3.10.1
+pyinstaller==4.3
+rsa==4.7.2
